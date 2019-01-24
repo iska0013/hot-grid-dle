@@ -6,7 +6,7 @@
 
 html {
   box-sizing: border-box;
-  font-family: "Roboto Slab", serif;
+  font-family: 100%/1.3 "Roboto Slab", serif;
   font-size: 1rem;
 
   -moz-text-size-adjust: 100%;
